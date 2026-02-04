@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plan My Year//Goal Planning Engine//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Chicago
+
+BEGIN:VEVENT
+UID:20250204-wake@planmyyear
+DTSTART;TZID=America/Chicago:20250204T063000
+DTEND;TZID=America/Chicago:20250204T063000
+SUMMARY:⏰ Wake Up
+DESCRIPTION:Start the day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250204-walkrun@planmyyear
+DTSTART;TZID=America/Chicago:20250204T063000
+DTEND;TZID=America/Chicago:20250204T071500
+SUMMARY:🏃 Walk/Run
+DESCRIPTION:Morning cardio - near-work house
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250204-study-core@planmyyear
+DTSTART;TZID=America/Chicago:20250204T180000
+DTEND;TZID=America/Chicago:20250204T200000
+SUMMARY:📚 Study (Core)
+DESCRIPTION:Structy ~10 problems
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250204-sleep@planmyyear
+DTSTART;TZID=America/Chicago:20250204T213000
+DTEND;TZID=America/Chicago:20250204T213000
+SUMMARY:😴 Bedtime
+DESCRIPTION:8hrs sleep → Wake 5:30am for gym day tomorrow
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250205-wake@planmyyear
+DTSTART;TZID=America/Chicago:20250205T053000
+DTEND;TZID=America/Chicago:20250205T053000
+SUMMARY:⏰ Wake Up
+DESCRIPTION:Early gym day - leave at 5:40am
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250205-boulder@planmyyear
+DTSTART;TZID=America/Chicago:20250205T061500
+DTEND;TZID=America/Chicago:20250205T074500
+SUMMARY:🧗 Boulder/Lift
+DESCRIPTION:Gym session - leave at 5:40am to beat traffic
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250205-study-core@planmyyear
+DTSTART;TZID=America/Chicago:20250205T170000
+DTEND;TZID=America/Chicago:20250205T190000
+SUMMARY:📚 Study (Core)
+DESCRIPTION:Structy ~10 problems
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250205-study-flex@planmyyear
+DTSTART;TZID=America/Chicago:20250205T190000
+DTEND;TZID=America/Chicago:20250205T210000
+SUMMARY:📚 Study (Flex)
+DESCRIPTION:Structy bonus ~5 problems + research meetups
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250205-sleep@planmyyear
+DTSTART;TZID=America/Chicago:20250205T223000
+DTEND;TZID=America/Chicago:20250205T223000
+SUMMARY:😴 Bedtime
+DESCRIPTION:8hrs sleep → Wake 6:30am tomorrow
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250206-wake@planmyyear
+DTSTART;TZID=America/Chicago:20250206T063000
+DTEND;TZID=America/Chicago:20250206T063000
+SUMMARY:⏰ Wake Up
+DESCRIPTION:Start the day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250206-walkrun@planmyyear
+DTSTART;TZID=America/Chicago:20250206T063000
+DTEND;TZID=America/Chicago:20250206T071500
+SUMMARY:🏃 Walk/Run
+DESCRIPTION:Morning cardio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250206-study-core@planmyyear
+DTSTART;TZID=America/Chicago:20250206T173000
+DTEND;TZID=America/Chicago:20250206T193000
+SUMMARY:📚 Study (Core)
+DESCRIPTION:Structy ~10 problems
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250206-study-flex@planmyyear
+DTSTART;TZID=America/Chicago:20250206T193000
+DTEND;TZID=America/Chicago:20250206T203000
+SUMMARY:📚 Study (Flex)
+DESCRIPTION:Structy bonus
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250206-sleep@planmyyear
+DTSTART;TZID=America/Chicago:20250206T230000
+DTEND;TZID=America/Chicago:20250206T230000
+SUMMARY:😴 Bedtime
+DESCRIPTION:8hrs sleep → Wake 7:00am for gym day tomorrow
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250207-wake@planmyyear
+DTSTART;TZID=America/Chicago:20250207T070000
+DTEND;TZID=America/Chicago:20250207T070000
+SUMMARY:⏰ Wake Up
+DESCRIPTION:Gym day - leave at 7:30am
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250207-boulder@planmyyear
+DTSTART;TZID=America/Chicago:20250207T080500
+DTEND;TZID=America/Chicago:20250207T093000
+SUMMARY:🧗 Boulder/Lift
+DESCRIPTION:Gym session - leave at 7:30am
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250207-study-core@planmyyear
+DTSTART;TZID=America/Chicago:20250207T103000
+DTEND;TZID=America/Chicago:20250207T130000
+SUMMARY:📚 Study (Core)
+DESCRIPTION:Structy ~12 problems
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250207-study-flex@planmyyear
+DTSTART;TZID=America/Chicago:20250207T143000
+DTEND;TZID=America/Chicago:20250207T173000
+SUMMARY:📚 Study (Flex)
+DESCRIPTION:Structy ~8 problems
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250207-sleep@planmyyear
+DTSTART;TZID=America/Chicago:20250207T000000
+DTEND;TZID=America/Chicago:20250207T000000
+SUMMARY:😴 Bedtime
+DESCRIPTION:8hrs sleep → Wake 8:00am tomorrow (sleep in Sunday)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250208-wake@planmyyear
+DTSTART;TZID=America/Chicago:20250208T080000
+DTEND;TZID=America/Chicago:20250208T080000
+SUMMARY:⏰ Wake Up
+DESCRIPTION:Sleep in - rest day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250208-study-core@planmyyear
+DTSTART;TZID=America/Chicago:20250208T100000
+DTEND;TZID=America/Chicago:20250208T120000
+SUMMARY:📚 Study (Core)
+DESCRIPTION:Structy ~10 problems
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250208-study-flex@planmyyear
+DTSTART;TZID=America/Chicago:20250208T140000
+DTEND;TZID=America/Chicago:20250208T160000
+SUMMARY:📚 Study (Flex)
+DESCRIPTION:Structy bonus
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250208-review@planmyyear
+DTSTART;TZID=America/Chicago:20250208T160000
+DTEND;TZID=America/Chicago:20250208T170000
+SUMMARY:📋 Weekly Review
+DESCRIPTION:Update tracker.csv\nRun 'next week' command\nRun 'calendar' command\nDraft Olivia follow-up email
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250208-sleep@planmyyear
+DTSTART;TZID=America/Chicago:20250208T223000
+DTEND;TZID=America/Chicago:20250208T223000
+SUMMARY:😴 Bedtime
+DESCRIPTION:8hrs sleep → Wake 6:30am Monday for weekly kickoff
+END:VEVENT
+
+END:VCALENDAR
