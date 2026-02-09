@@ -1,0 +1,208 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plan My Year//Week Feb 9-15 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Week Feb 9-15 2026
+X-WR-TIMEZONE:America/Chicago
+X-WR-CALDESC:Phase 1: Finish the Weapon - OpenClaw hackathon week
+
+BEGIN:VEVENT
+UID:weekly-kickoff-feb-9-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260209T123000Z
+DTEND:20260209T133000Z
+SUMMARY:🎯 Weekly Kickoff
+DESCRIPTION:10 min: Scan week-feb-9-15.md and commit to the week.\n\nWeek 2 targets:\n- Structy: 25 problems (DP finish\, Stack finish\, Graph II start)\n- DDIA Ch 5: Replication\n- OpenClaw hackathon: Fri-Sat\n- LinkedIn: Post AI Refactor carousel\n\nThis is a lighter study week (15 hrs) due to hackathon. Front-load Mon-Thu.
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:study-core-mon-feb-9-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260209T233000Z
+DTEND:20260210T013000Z
+SUMMARY:📚 Study (Core)
+DESCRIPTION:Structy DP problems (~5 problems)\n\nTarget: 7-8 DP problems today\nCurrent: 7/22 DP done\nGoal: 14-15/22 by end of day\n\nTimed conditions: 25 min per medium\nExplain approach out loud\nNo IDE autocomplete
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:study-flex-mon-feb-9-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260210T013000Z
+DTEND:20260210T023000Z
+SUMMARY:📚 Study (Flex)
+DESCRIPTION:Structy DP problems (~2-3 problems)\n\nOptional stretch time. If energy is low\, skip without guilt.
+LOCATION:Home
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:run-tue-feb-10-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260210T123000Z
+DTEND:20260210T131500Z
+SUMMARY:🏃 Walk/Run
+DESCRIPTION:Morning cardio before commute to Bryan office.\n\nOffice day - 2hr commute each way
+LOCATION:Local
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:study-core-tue-feb-10-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260211T003000Z
+DTEND:20260211T023000Z
+SUMMARY:📚 Study (Core)
+DESCRIPTION:Structy DP problems (~4-5 problems)\n\nTarget: DP running total 18-20/22\n\nOffice day = less study time\, but still core commitment
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:run-wed-feb-11-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260211T123000Z
+DTEND:20260211T131500Z
+SUMMARY:🏃 Walk/Run
+DESCRIPTION:Morning cardio before shorter commute (15 min).\n\nOffice day - home by 6pm
+LOCATION:Local
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:study-core-wed-feb-11-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260212T000000Z
+DTEND:20260212T020000Z
+SUMMARY:📚 Study (Core)
+DESCRIPTION:Structy DP → Stack\n\nFinish DP section (2-4 remaining)\nStart Stack section (~2-4 problems)\n\nGoal: DP 22/22 DONE by end of day
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:linkedin-wed-feb-11-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260211T180000Z
+DTEND:20260211T183000Z
+SUMMARY:💼 LinkedIn Post
+DESCRIPTION:Post AI Refactor carousel\n\nUse neutral framing that doesn't make TTI look bad.\n\nThis goes up BEFORE any applications. When recruiters search your name\, they need to see "systems thinker" not empty profile.
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:boulder-thu-feb-12-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260212T111500Z
+DTEND:20260212T134500Z
+SUMMARY:🧗 Boulder/Lift
+DESCRIPTION:Best gym day of the week. Work from gym after.\n\nEarly wake (5:30am)\nLeave 5:40am\nGym 6:15-7:45am\nWork from gym 8am-12pm\nDrive home 12pm
+LOCATION:Gym (35 min away)
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:study-core-thu-feb-12-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260212T230000Z
+DTEND:20260213T010000Z
+SUMMARY:📚 Study (Core)
+DESCRIPTION:Structy Stack problems\n\nFinish Stack section (~3-5 problems)\nGoal: Stack 7/7 DONE\n\nBest study day of the week (4 hrs total available)
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:study-flex-thu-feb-12-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260213T010000Z
+DTEND:20260213T030000Z
+SUMMARY:📚 Study (Flex)
+DESCRIPTION:DDIA Ch 5: Replication\n\n1.5 hrs reading + notes\nTake notes as if teaching the chapter\nWrite 1-paragraph summary after
+LOCATION:Home
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:run-fri-feb-13-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260213T123000Z
+DTEND:20260213T131500Z
+SUMMARY:🏃 Walk/Run
+DESCRIPTION:Get cardio in BEFORE hackathon starts at noon.\n\nShortened work day (8am-12pm)
+LOCATION:Local
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hackathon-fri-feb-13-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260213T180000Z
+DTEND:20260214T020000Z
+SUMMARY:🚀 OpenClaw AI Hackathon (Day 1)
+DESCRIPTION:OpenClaw AI Hackathon - Day 1\n\nGoals:\n- Build something tight with tools you know (Python\, APIs)\n- 30 min genuine conversation with Armel Talla about infrastructure\, Miru platform\, systems thinking\n- Meet 2-3 other engineers. Exchange contacts.\n\nNon-goals:\n- Winning (optimize for relationships\, not prizes)\n\nRule: Build\, ship\, leave\, move on. No post-hackathon iteration.
+LOCATION:TBD
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hackathon-sat-feb-14-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260214T140000Z
+DTEND:20260215T000000Z
+SUMMARY:🚀 OpenClaw AI Hackathon (Day 2)
+DESCRIPTION:OpenClaw AI Hackathon - Day 2 (ends 6pm)\n\nShip what you built. Be memorable.\n\nNo Boulder/Lift today (at hackathon).\n\nEvening: Rest\, recover. You earned it.
+LOCATION:TBD
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:study-core-sun-feb-15-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260215T160000Z
+DTEND:20260215T180000Z
+SUMMARY:📚 Study (Core)
+DESCRIPTION:Structy Graph II problems\n\nStart Graph II section\nAim for 3 problems\n\nCurrent: 0/16\nTarget: 3/16 by end of day
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:study-flex-sun-feb-15-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260215T200000Z
+DTEND:20260215T210000Z
+SUMMARY:📚 Study (Flex)
+DESCRIPTION:DDIA Ch 5: Replication\n\nFinish reading if not done Thursday.\nWrite 1-paragraph summary.\n\nOptional if energy is low.
+LOCATION:Home
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:networking-sun-feb-15-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260215T210000Z
+DTEND:20260215T220000Z
+SUMMARY:🤝 Networking Follow-ups
+DESCRIPTION:LinkedIn engagement + follow up OpenClaw hackathon contacts\n\n48-hour rule: Follow up with everyone you met at hackathon by Monday Feb 16.\n\nLinkedIn connection + "great building with you" message for each contact.\n\nOptional if energy is low.
+LOCATION:Home
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:weekly-review-feb-15-2026@plan-my-year
+DTSTAMP:20260209T120000Z
+DTSTART:20260215T220000Z
+DTEND:20260215T230000Z
+SUMMARY:📋 Weekly Review
+DESCRIPTION:Weekly review ritual (15-30 min)\n\nChecklist:\n- [ ] Update tracker.csv with week's progress\n- [ ] Structy: ___ / 25 problems\n- [ ] DP: ___ / 22\n- [ ] Stack: ___ / 7\n- [ ] Graph II: ___ / 3\n- [ ] DDIA Ch 5 read: yes/no\n- [ ] LinkedIn carousel posted: yes/no\n- [ ] Fitness sessions: ___ / 4\n- [ ] Weight: ___ lbs\n\nReflect:\n- What worked?\n- What didn't?\n- Energy levels?\n- Adjustments for next week?\n\nThen: Run `next week` command to generate week-feb-16-22.md
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+END:VCALENDAR

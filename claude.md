@@ -176,3 +176,304 @@ Update tracker.csv? [y/n]
 - "weighed 155.2"
 
 Claude will ask for clarification if ambiguous.
+
+---
+
+### `story <name>`
+Display a behavioral story for rehearsal and mark it practiced.
+
+**Process:**
+1. Read `stories.md`
+2. Find the story by name (partial match OK: "indexing", "workday", "image", "iot", "mvc", "showing")
+3. Display the full STAR format
+4. Prompt user to say it out loud and time it (~2 minutes)
+5. Ask if they want to mark it as rehearsed
+6. If yes, update the "Rehearsed" section in stories.md with today's date
+
+**Example:**
+```
+> story indexing
+
+## Story 1: Indexing Pipeline
+
+**Situation:**
+Staff data was being fully reindexed on every request, creating 20-minute delays...
+
+[Full story displayed]
+
+---
+
+Say this story OUT LOUD and time yourself (~2 minutes target).
+
+Did you rehearse it? [y/n]
+> y
+
+Marked as rehearsed on 2026-02-09 in stories.md
+```
+
+**Usage notes:**
+- Starting Phase 3 (Mar 22+), rehearse 2 stories per week
+- Say them OUT LOUD, not in your head
+- Time yourself — should be ~2 minutes
+- Note what you forgot or where you rambled
+- Use in mock interviews to get feedback
+
+---
+
+### `network add <name> <company> <context>`
+Add a new contact to contacts.md.
+
+**Process:**
+1. Read `contacts.md`
+2. Prompt for additional details if not provided:
+   - Role (if known)
+   - Source (where you met them)
+   - Status (Cold/Met/Warm/Active)
+   - Notes
+3. Add row to "Active Contacts" table
+4. Save and confirm
+
+**Example:**
+```
+> network add "Jane Doe" "Google" "Met at Founders Run Club Feb 7"
+
+Role: [leave blank if unknown]
+> SRE
+
+Status: [Cold/Met/Warm/Active]
+> Met
+
+Notes:
+> Talked about Kubernetes scaling. Seemed interested in distributed systems.
+
+Added to contacts.md:
+Jane Doe | Google | SRE | Founders Run Club (Feb 7) | Met | Feb 7 | Follow up within 48hrs | Talked about K8s scaling...
+```
+
+**Follow-up rule:** Add every meaningful contact within 24 hours of meeting them.
+
+---
+
+### `network next`
+Show contacts who need follow-up.
+
+**Process:**
+1. Read `contacts.md`
+2. Parse "Last Touch" dates and "Next Action" fields
+3. Flag contacts who:
+   - Have a next action marked as URGENT
+   - Haven't been touched in > 7 days and have pending actions
+   - Have "send message" or "follow up" in next action
+4. Display sorted by urgency
+
+**Example:**
+```
+> network next
+
+Contacts to follow up with:
+
+URGENT (within 48 hours):
+1. Armel Talla (EPFL) - Last touch: Feb 14 (1 day ago)
+   Next action: Follow up within 48hrs
+   Note: OpenClaw hackathon contact
+
+This week:
+2. Figma production engineer - Last touch: Never
+   Next action: SEND THE DRAFTED MESSAGE THIS WEEK
+
+Soon:
+3. [Amazon engineer] (Amazon) - Last touch: Feb 7 (3 days ago)
+   Next action: Coffee late Feb, referral ask Week 8-9
+```
+
+---
+
+### `network search <company>`
+Find contacts at a specific company.
+
+**Process:**
+1. Read `contacts.md`
+2. Filter by company name (case-insensitive, partial match)
+3. Display matching contacts with full details
+
+**Example:**
+```
+> network search amazon
+
+Found 1 contact at Amazon:
+
+[Amazon engineer]
+- Source: Women's SWE meetup (Feb 6)
+- Status: Warm
+- Last touch: Feb 7 (run club invite)
+- Next action: Coffee late Feb, referral ask Week 8-9
+- Notes: Gave value first with run club invite. Build relationship before ask.
+```
+
+---
+
+### `apply <company>`
+Log a new application to applications.md.
+
+**Process:**
+1. Read `applications.md`
+2. Prompt for:
+   - Role title
+   - Referral contact (from contacts.md)
+   - Applied date (default: today)
+   - Status (default: "applied")
+3. Add row to "Application Status" table
+4. Update tracker.csv with application logged
+5. Confirm
+
+**Example:**
+```
+> apply google
+
+Role: Software Engineer III, Core
+
+Referral contact: [enter name or 'none']
+> Jane Doe
+
+Applied via referral from Jane Doe on 2026-04-15
+
+Added to applications.md:
+Google | Tier 1 | SWE III Core | Jane Doe | 2026-04-15 | applied | - | Waiting for recruiter response
+
+Logged to tracker.csv
+```
+
+**Note:** Do NOT use this command before Phase 4 (Apr 14) unless you have a warm referral ready NOW.
+
+---
+
+### `interview <company> <stage>`
+Log an interview in applications.md.
+
+**Process:**
+1. Read `applications.md`
+2. Find the company in the Application Status table
+3. Prompt for:
+   - Date
+   - Interviewer(s)
+   - Focus (coding, system design, behavioral, etc.)
+   - Prep notes
+4. Add row to "Interview Pipeline" table
+5. Update application status to show current stage
+6. Confirm
+
+**Example:**
+```
+> interview google recruiter_screen
+
+Date: 2026-04-20
+
+Interviewer: Sarah Chen (Recruiter)
+
+Focus: [coding/system_design/behavioral/general]
+> general
+
+Prep notes:
+> 30 min call. Prepared to discuss: indexing pipeline story, why Google, team fit.
+
+Added to Interview Pipeline:
+Google | Recruiter screen | 2026-04-20 | Sarah Chen | General | 30 min, discuss stories and team fit | [pending]
+
+Updated Application Status: Google → Interview stage: Recruiter screen
+```
+
+---
+
+### `offer <company>`
+Log an offer in applications.md.
+
+**Process:**
+1. Read `applications.md`
+2. Prompt for:
+   - Offer date (default: today)
+   - Base salary
+   - Stock/year
+   - Bonus
+   - Total comp (calculated automatically)
+   - Deadline
+   - Status (default: "reviewing")
+3. Add row to "Offer Tracking" table
+4. Update application status
+5. Display negotiation reminders
+
+**Example:**
+```
+> offer amazon
+
+Offer date: [default: today]
+> 2026-05-15
+
+Base salary: 145000
+
+Stock/year: 80000
+
+Bonus: 20000
+
+Total comp: 245000 (calculated)
+
+Deadline: 2026-05-30
+
+Added to Offer Tracking:
+Amazon | 2026-05-15 | $145K | $80K/yr | $20K | $245K | 2026-05-30 | reviewing
+
+---
+
+NEGOTIATION REMINDERS:
+1. Never accept on the spot — ask for time to review
+2. Never give a number first — ask for their range
+3. Always negotiate — even if it's good
+4. Use competing offers as leverage
+5. Your current salary is irrelevant
+
+Next step: Wait for other offers to come in before negotiating
+```
+
+---
+
+### `pipeline`
+Show current application status summary.
+
+**Process:**
+1. Read `applications.md`
+2. Parse all tables (Application Status, Interview Pipeline, Offer Tracking)
+3. Summarize by stage:
+   - Companies pending referral
+   - Applications submitted (waiting for response)
+   - Active interviews
+   - Offers received
+4. Flag any urgent actions
+
+**Example:**
+```
+> pipeline
+
+Application Pipeline Summary (as of Feb 9, 2026):
+
+Phase: 1 (Finish the Weapon)
+Status: NO APPLICATIONS YET — Focus on DSA prep
+
+Target Application Date: Apr 14-18 (65 days from now)
+
+Referrals Needed (find by Phase 3):
+- Google: No contact identified
+- Meta: Ryan Will (possible, but data scientist not eng)
+- Microsoft: No contact identified
+- Snap: No contact identified
+- TikTok: No contact identified
+
+Referrals In Progress:
+- Amazon: [Amazon engineer] - coffee late Feb, referral ask Week 8-9
+- Figma: Production engineer - SEND MESSAGE THIS WEEK
+
+---
+
+When Phase 4 (Apr 14-18):
+Expected to apply to 10-15 companies simultaneously
+Target: 3+ referral-attached applications
+Goal: Generate competing offers for negotiation leverage
+```

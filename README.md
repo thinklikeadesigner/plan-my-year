@@ -23,6 +23,14 @@ Then tell Claude your goals, or use a command:
 | `next week` | Generate next week's plan from tracker progress |
 | `calendar` | Generate .ics file for current week |
 | `log` | Paste progress notes → update tracker.csv |
+| `story <name>` | Display behavioral story for rehearsal, mark as practiced |
+| `network add` | Add new networking contact |
+| `network next` | Show contacts who need follow-up |
+| `network search` | Find contacts at specific company |
+| `apply <company>` | Log a job application (Phase 4+) |
+| `interview <company>` | Log an interview |
+| `offer <company>` | Log an offer |
+| `pipeline` | Show application status summary |
 
 ## File Structure
 
@@ -35,6 +43,9 @@ plan-my-year/
 ├── q1-feb-mar.md          # Q1 targets
 ├── feb-2026.md            # February monthly plan
 ├── week-feb-4-8.md        # Current week's daily plan
+├── stories.md             # Behavioral stories in STAR format
+├── contacts.md            # Networking contact CRM
+├── applications.md        # Application pipeline tracker
 ├── calendar/
 │   └── week-feb-4-8.ics   # Calendar import file
 └── templates/
