@@ -1,4 +1,4 @@
-# Week 1: February 4-8, 2025
+# Week 1: February 4-8, 2026
 
 ## Weekly Targets
 

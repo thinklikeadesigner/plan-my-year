@@ -31,9 +31,9 @@ plan-my-year/
 ├── claude.md              # System prompt (planning engine)
 ├── README.md              # This file
 ├── tracker.csv            # Progress tracking
-├── 2025-goals.md          # Year overview + quarterly breakdown
+├── 2026-goals.md          # Year overview + quarterly breakdown
 ├── q1-feb-mar.md          # Q1 targets
-├── feb-2025.md            # February monthly plan
+├── feb-2026.md            # February monthly plan
 ├── week-feb-4-8.md        # Current week's daily plan
 ├── calendar/
 │   └── week-feb-4-8.ics   # Calendar import file
