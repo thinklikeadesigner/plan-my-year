@@ -168,13 +168,25 @@ Offers (0):
 ## Strategy Notes
 
 ### Application Timing (Critical)
-Apply to all targets simultaneously in ONE WEEK (Apr 14-18). This ensures:
-- Competing timelines
-- Leverage in negotiation
-- You're not stuck waiting months for slow companies while fast ones expire
+**Goal:** Cluster onsites into the same 2-3 week window so offers land together for negotiation leverage.
+
+**Strategy:** Two waves — practice first, then stagger the rest to converge.
+
+**Wave 1 — Practice Reps (apply early):**
+- Tier 4 companies (Indeed, Oracle, etc.) — these move fast and are low stakes
+- Apply 2-3 weeks before Tier 1-3 to get real interview reps
+- Use these to calibrate: where do you freeze? What questions surprise you?
+
+**Wave 2 — The Real Targets (staggered to converge):**
+1. Once warm contacts are secured, research each target company's typical interview timeline (application → phone screen → onsite → offer)
+2. Back-calculate application dates so Tier 1-3 onsites land in the same 2-3 week window
+3. Apply to slow companies first (e.g. Google: 8-12 weeks), faster ones later (e.g. Snap, Amazon)
+4. Let the referral pipeline dictate which companies to research — no point mapping timelines for companies where you don't have a contact
+
+**TODO (Phase 3):** Once referrals are identified, build a staggered application calendar here.
 
 ### Interview Order
-1. **Tier 4 first** (Indeed, Oracle) — Practice reps, low stakes
+1. **Tier 4 first** (Indeed, Oracle) — Practice reps, low stakes. Apply early.
 2. **Tier 3 next** (Snap, TikTok, Datadog) — Real offers + more practice
 3. **Tier 1-2 last** (Google, Meta, Amazon, Microsoft) — You're sharp from previous rounds
 
