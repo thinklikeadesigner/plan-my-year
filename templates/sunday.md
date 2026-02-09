@@ -10,7 +10,9 @@
 | 12:00-2:00 | Lunch, rest | |
 | 2:00-4:00 | **Study block 2 (2 hrs)** | Flex |
 | 4:00-5:00 | **Weekly review** | Core |
-| 5:00-11:00 | Rest, prep for week | |
+| 5:00-9:30 | Rest, prep for week | |
+| 9:30-10:30 | **DDIA reading** | Flex |
+| 10:30-11:00 | Sleep routine | |
 | 11:00pm | Bed | |
 
 **Study hours:** 2 Core + 2 Flex = 4 hrs max

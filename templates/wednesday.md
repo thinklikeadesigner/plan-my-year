@@ -12,7 +12,9 @@
 | 4:00pm | Leave (1h45m drive home) | |
 | 5:45pm | Arrive home | |
 | 6:00-8:00 | **Study (2 hrs)** | Core |
-| 8:00-11:00 | Dinner, wind down | |
+| 8:00-9:30 | Dinner, wind down | |
+| 9:30-10:30 | **DDIA reading** (optional) | Flex |
+| 10:30-11:00 | Sleep routine | |
 | 11:00pm | Bed | |
 
 **Study hours:** 2 Core

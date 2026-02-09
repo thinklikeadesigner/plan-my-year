@@ -20,7 +20,9 @@ Before work, review and commit:
 | 4:00-5:30 | Break, dinner | |
 | 5:30-7:30 | **Study (2 hrs)** | Core |
 | 7:30-8:30 | **Study (1 hr)** | Flex |
-| 8:30-11:00 | Wind down | |
+| 8:30-9:30 | Wind down | |
+| 9:30-10:30 | **DDIA reading** | Flex |
+| 10:30-11:00 | Sleep routine | |
 | 11:00pm | Bed | |
 
 **Study hours:** 2 Core + 1 Flex = 3 hrs max

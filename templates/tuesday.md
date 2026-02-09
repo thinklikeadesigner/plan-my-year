@@ -11,7 +11,9 @@
 | 10:00-6:00pm | Work | |
 | 6:15pm | Arrive near-work house | |
 | 6:30-8:30 | **Study (2 hrs)** | Core |
-| 8:30-11:00 | Dinner, wind down | |
+| 8:30-9:30 | Dinner, wind down | |
+| 9:30-10:30 | **DDIA reading** (optional) | Flex |
+| 10:30-11:00 | Sleep routine | |
 | 11:00pm | Bed | |
 
 **Study hours:** 2 Core

@@ -15,7 +15,9 @@
 | 4:00-5:00 | Break, dinner | |
 | 5:00-7:00 | **Study (2 hrs)** | Core |
 | 7:00-9:00 | **Study (2 hrs)** | Flex |
-| 9:00-11:00 | Wind down | |
+| 9:00-9:30 | Wind down | |
+| 9:30-10:30 | **DDIA reading** | Flex |
+| 10:30-11:00 | Sleep routine | |
 | 11:00pm | Bed | |
 
 **Study hours:** 2 Core + 2 Flex = 4 hrs max
