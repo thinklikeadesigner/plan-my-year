@@ -1,7 +1,7 @@
 date,structy_done,structy_total,neetcode_done,neetcode_total,system_design_ch,ddia_chapter,system_design_problems,behavioral_prepped,mocks_done,linkedin_posts,networking_touchpoints,weight,run,boulder,meetups,labs,courses,notes
 2026-02-04,0,114,0,150,0,0,0,0,0,0,1,156.5,,,1,,,Week 1 start - Created plan-my-year; AI camp meetup (Claude SDK + A2A protocol talks) - met Meta data scientist Ryan Will
-2026-02-05,0,114,0,150,0,0,0,0,0,0,1,,1,0,1,,,Hack AI meetup - met cool people + Italian from Florence. linkt co-founder and cto
-2026-02-06,0,114,0,150,0,0,0,0,0,0,1,,,,1,,,Austin Women's Software Engineer meetup
+2026-02-05,0,114,0,150,0,0,0,0,0,0,1,,0,0,1,,,Hack AI meetup - met cool people + Italian from Florence. linkt co-founder and cto
+2026-02-06,0,114,0,150,0,0,0,0,0,0,1,,1,,1,,,Austin Women's Software Engineer meetup
 2026-02-07,4,114,0,150,0,0,0,0,0,0,1,,1,1,1,,,Founders Run Club Austin - met Daniel (AI/ML engineer); registered for OpenClaw AI hackathon (Feb 14-15) + bouldering
 2026-02-08,11,114,0,150,0,0,0,0,0,0,0,156.1,1,,,,,"Ultra Plan activated - Phase 1: Finish the Weapon. Structy corrected: DP 7/22 Stack 0/7 ArrStr 2/12 LL2 2/7 BT2 0/12 Heap 0/7 ExRec 0/12 Graph2 0/16 Mixed 0/19"
 2026-02-09,20,114,0,150,8,1,0,0,0,0,0,,1,,,,1,"Grokking Modern Sys Design (Educative) on morning walk: System Design Interviews, SD Primer, Non-Functional Reqs, Back-of-Envelope Calcs, Building Blocks, DNS, Load Balancer, Databases. Evening: 9 Structy DP problems (16/22 DP done). Night: DDIA Ch 1"
