@@ -41,11 +41,11 @@
 | **Tue** | Feb 10 | Walk/Run | 2 (2C) | Structy DP |
 | **Wed** | Feb 11 | Walk/Run | 2 (2C) | Structy DP → Stack |
 | **Thu** | Feb 12 | Boulder/Lift | 4 (2C+2F) | Structy Stack + DDIA Ch 5 |
-| **Fri** | Feb 13 | Walk/Run (AM) | 0 | **OpenClaw hackathon (12pm →)** |
+| **Fri** | Feb 13 | Walk/Run (AM) | 6 (4C+2F) | **Structy + DDIA → OpenClaw hackathon (5pm →)** |
 | **Sat** | Feb 14 | Skip | 0 | **OpenClaw hackathon (→ 6pm)** |
 | **Sun** | Feb 15 | Rest | 4 (2C+2F) | Structy Graph II + DDIA Ch 5 + Review |
 
-**Total: 15 hrs study (11 hrs Structy, 2 hrs DDIA, 1 hr LinkedIn, 1 hr networking)**
+**Total: 21 hrs study (17 hrs Structy, 2 hrs DDIA, 1 hr LinkedIn, 1 hr networking)**
 
 ---
 
@@ -97,14 +97,16 @@
 
 **Day target: Finish Stack section (7/7). Start DDIA Ch 5.**
 
-### Friday, Feb 13 — Walk/Run → OpenClaw Hackathon
+### Friday, Feb 13 — PTO: Walk/Run → Study → OpenClaw Hackathon
 - [ ] 6:30am: Wake
-- [ ] 6:30-7:15: Walk/Run (get it in before hackathon)
-- [ ] 8:00-12:00pm: Work (shortened)
-- [ ] **12:00pm: OpenClaw AI Hackathon begins**
+- [ ] 6:30-7:15: Walk/Run
+- [ ] 8:00-12:00: **Structy** (~6-8 problems) — CORE
+- [ ] 12:00-1:00: Lunch
+- [ ] 1:00-3:00: **Structy** (~3-4 problems) — CORE
+- [ ] 3:00-4:30: **DDIA Ch 5** — FLEX
+- [ ] **5:00pm: OpenClaw AI Hackathon begins**
 - [ ] Build something tight with tools you know (Python, APIs)
 - [ ] Meet engineers. Exchange contacts. Be memorable.
-- [ ] No study. Hackathon IS the work tonight.
 
 ### Saturday, Feb 14 — OpenClaw Hackathon → Recovery
 - [ ] **OpenClaw hackathon continues → 6pm**
@@ -174,6 +176,6 @@
 
 ## Notes
 
-- This is a hackathon week. 15 hrs study instead of 23.5. That's fine. Front-loaded Mon-Thu.
+- Hackathon shifted to 5pm Friday. PTO day = bonus study block. 21 hrs study instead of original 15.
 - DP is the hardest section. If you're stuck on a problem for >25 min: study the solution for 10 min, move on, re-attempt in 3 days.
 - Explain your approach out loud on every problem. Interview practice starts now.
