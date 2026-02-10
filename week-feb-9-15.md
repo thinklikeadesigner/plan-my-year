@@ -52,13 +52,13 @@
 ## Daily Details
 
 ### Monday, Feb 9 — WFH, Weekly Kickoff
-- [ ] 6:30am: Wake
-- [ ] 6:30-7:30: Morning routine + **Weekly Kickoff** (10 min: scan this file, commit to week)
-- [ ] 8:00-4:00pm: Work
-- [ ] 4:00-5:30: Break, dinner
-- [ ] 5:30-7:30: **Structy DP** (~5 problems) — CORE
-- [ ] 7:30-8:30: **Structy DP** (~2-3 problems) — FLEX
-- [ ] 11:00pm: Bed
+- [x] 6:30am: Wake
+- [x] 6:30-7:30: Morning routine + **Weekly Kickoff** (10 min: scan this file, commit to week)
+- [x] 8:00-4:00pm: Work
+- [x] 4:00-5:30: Break, dinner
+- [x] 5:30-7:30: **Structy DP** (~5 problems) — CORE
+- [x] 7:30-8:30: **Structy DP** (~2-3 problems) — FLEX
+- [x] 11:00pm: Bed
 
 **Day target: 7-8 DP problems. DP done count: 7 → ~14-15.**
 
