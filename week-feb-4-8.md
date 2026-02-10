@@ -80,9 +80,9 @@
 ## Weekly Review (Sunday)
 
 ### Progress Check
-- [ ] Structy problems completed: _____ / ~50
-- [ ] Fitness sessions: _____ / 4
-- [ ] Weight: _____ lbs
+- [x] Structy problems completed: 11 / ~50
+- [x] Fitness sessions: 5 / 4 (3 runs, 2 boulders — exceeded target)
+- [x] Weight: 156.1 lbs (target ~155.9 — on track)
 
 ### What worked?
 meetups were fun, i went to 3
