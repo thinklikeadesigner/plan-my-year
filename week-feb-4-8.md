@@ -4,7 +4,7 @@
 
 ### Career
 - [ ] Structy: ~50 problems (shorter week)
-- [ ] Research meetups (30 min)
+- [x] Research meetups (30 min)
 
 ### Fitness
 - [ ] 4 sessions (Wed-Sat)
@@ -12,8 +12,8 @@
 - [ ] Walk/Run: Wed, Fri
 
 ### Networking
-- [ ] Research local meetups
-- [ ] Draft Olivia follow-up (send if no reply by Feb 10)
+- [x] Research local meetups
+- [x] Draft Olivia follow-up (send if no reply by Feb 10)
 
 ### Weight
 - Start: 156.5 lbs
@@ -52,7 +52,7 @@
 - [ ] 12:35-4:00pm: Work from home
 - [ ] 5:00-7:00pm: Structy (~10 problems) — CORE
 - [ ] 7:00-9:00pm: Structy (bonus ~5 problems) — FLEX
-- [ ] Research meetups (30 min)
+- [x] Research meetups (30 min)
 
 ### Friday, Feb 6
 - [ ] 6:30am: Wake
@@ -73,7 +73,7 @@
 - [ ] 10:00am-12:00pm: Structy (~10 problems) — CORE
 - [ ] 2:00-4:00pm: Structy (bonus) — FLEX
 - [ ] 4:00-5:00pm: Weekly review
-- [ ] Draft Olivia follow-up email
+- [x] Draft Olivia follow-up email
 
 ---
 
@@ -85,13 +85,13 @@
 - [ ] Weight: _____ lbs
 
 ### What worked?
-
+meetups were fun, i went to 3
 
 ### What didn't?
-
+couldn't do both meetups and structy, hr round trip plus parking for the meetups that were 2 hrs plus networking time so they went from 4pm to 10pm
 
 ### Adjustments for next week?
-
+only 1 or 2 meetups a week so i can study to pass the interviews.
 
 ---
 
