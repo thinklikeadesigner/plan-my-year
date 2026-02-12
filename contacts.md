@@ -12,6 +12,7 @@ Your network IS your application pipeline. Every person here is a potential refe
 |------|---------|------|--------|--------|------------|-------------|-------|
 | Olivia Petrie | Elastic | Program Manager, DevRel | Elastic Austin meetup (Feb 3) | Active | Feb 9 email | Meeting with Sophia Feb 12 11:30am | Invited to present at Elastic Austin meetup on search architecture. Workshop talk with Sophia. |
 | Sophia Solomon | Elastic | Developer Advocate, Austin | Intro from Olivia (Feb 5) | Warm | Feb 9 email | Meeting Feb 12 11:30am | Workshop talk angle for Elastic Austin meetup presentation. |
+| Holt | Google | Developer Advocate | AI meetup (Feb) | Warm | Commented on course post | Second interaction by mid-March | Bridge node into Google. Gave A2A talk. Potential intro to platform engineer. Referral ask in April through intro request, not direct ask. |
 | Isha | Amazon | SWE | Women's SWE meetup (Feb 6) | Warm | Feb 7 run club invite | Coffee late Feb, referral ask Week 8-9 | Gave value first with run club invite. Build relationship before ask. |
 | Daniel | EPFL | AI/ML Engineer | Hackathon invite | Met Feb 7 | Feb 9 | Stay visible at run club | Registered for OpenClaw AI hackathon together  |
 | Ryan Will | Meta | Data Scientist | AI camp meetup (Feb 4) | Met | Feb 4 | LinkedIn, stay in touch | Met at AI camp: Claude SDK + A2A protocol talks |
@@ -25,7 +26,7 @@ These are referral contacts you need to identify for Phase 4 (Application Blitz,
 
 | Company | Target Contact | Source | Status | Notes |
 |---------|----------------|--------|--------|-------|
-| Google | TBD | Need to find | Not started | Tier 1 - Dream. Referral required. |
+| Google | Holt (DevRel) | AI meetup (Feb) | In progress | Tier 1 - Dream. Bridge node. Target: second interaction mid-March, referral ask April via intro request to platform engineer. |
 | Meta | Ryan Will? | AI camp meetup | Possible | Data scientist, not engineering. May not be strong referral. |
 | Amazon | Isha | Women's SWE meetup | In progress | walk hike with whatsapp group possible. Referral ask Week 8-9. |
 | Microsoft | Daniel Lam | Student Worker at TTI got return offer at microsoft | congratulated in linkedin comment section | Tier 2 - Strong |
