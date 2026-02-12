@@ -52,15 +52,36 @@
 
 **Secret weapon:** Weave in real stories. Indexing pipeline for search design. Workday sync for data pipeline design. Hash-based dedup for image processing design.
 
+### DSA Maintenance: Targeted NeetCode Hard (30-60 min/day)
+**Goal:** Keep DSA sharp, practice harder problems, target weak areas
+
+**Week 1 (Mar 1-7): Finish Mixed Recall + Graph Hard**
+- [ ] Finish Structy Mixed Recall (overflow from Feb)
+- [ ] 3-5 NeetCode Hard Graph problems (your weakest area from Structy)
+
+**Week 2-3 (Mar 8-21): DP + Backtracking Hard**
+- [ ] 3-5 NeetCode Hard DP problems/week (52 min avg in Structy—sharpen this)
+- [ ] 3-5 NeetCode Hard Backtracking problems/week (Exhaustive Recursion weak area)
+
+**Total March NeetCode:** 20-25 Hard problems (reinforcement, not new learning)
+
+**Why Hard problems:** Google trending toward LC Hard in 2025. Practice explaining complex approaches out loud.
+
 ### DDIA (2 hrs/week)
-- [ ] Chapter 8: The Trouble with Distributed Systems (Week of Mar 2)
-- [ ] Chapter 9: Consistency and Consensus (Week of Mar 9)
-- [ ] Review + synthesize chapters 5-9 (Week of Mar 16)
+**Audiobook on commutes (Tue/Wed office days):**
+- [ ] Ch 3: Storage & Retrieval (if not done in Feb)
+- [ ] Ch 4: Encoding & Evolution (Week of Mar 2)
+
+**Intentional reading:**
+- [ ] Chapter 8: The Trouble with Distributed Systems (Week of Mar 2-9)
+- [ ] Chapter 9: Consistency and Consensus (Week of Mar 9-16)
+- [ ] Review + synthesize chapters 5-9 (Week of Mar 16-21)
 
 ### Networking (2 hrs/week)
-- [ ] Coffee chat with Amazon engineer (aim for Week of Mar 3 or Mar 10)
+- [ ] Coffee chat with Isha (Amazon engineer) — aim for Week of Mar 3 or Mar 10
 - [ ] Follow up with hackathon contacts within 48 hours (LinkedIn + "great building with you")
-- [ ] Post IoT Form carousel on LinkedIn (Week of Mar 10)
+- [ ] **Deliver Elastic Austin meetup talk** (likely mid-March, TBD with Sophia)
+- [ ] Post Elastic talk carousel on LinkedIn (after presentation)
 - [ ] Engage meaningfully on 3-5 posts/week from engineers at target companies
 
 ---
@@ -81,11 +102,14 @@
 - [ ] Find system design mock partner (Austin network or Interviewing.io)
 - [ ] Find behavioral mock partner
 
+**Coding mocks:** Use NeetCode Hard problems (10-15 problems via mocks in April = live coding practice)
+
 After each mock, debrief: What went well? Where did I freeze? What surprised me? What would I do differently?
 
 ### Networking
-- [ ] If Amazon coffee chat went well → referral ask: "I'm starting to look at platform/infra roles. If you think it might be a fit, I'd love to learn about the referral process."
-- [ ] Post brand statement synthesis on LinkedIn (after both carousels are up)
+- [ ] If Isha (Amazon) coffee chat went well → referral ask: "I'm starting to look at platform/infra roles. If you think it might be a fit, I'd love to learn about the referral process."
+- [ ] Olivia/Sophia (Elastic) — stay warm, potential referral path from talk collaboration
+- [ ] Post brand statement synthesis on LinkedIn (after Elastic carousel is up)
 
 ---
 
@@ -121,8 +145,19 @@ After each mock, debrief: What went well? Where did I freeze? What surprised me?
 
 ## Weekly Non-Negotiables
 
-- [ ] Minimum 6 leetcode problems solved (timed)
-- [ ] 1 system design problem (starting Phase 2)
-- [ ] 2 behavioral stories rehearsed out loud (starting Phase 3)
+**Phase 1 (Feb):**
+- [ ] 25-30 Structy problems/week (finish 114 by Feb 28)
 - [ ] 1 networking touchpoint (message, coffee, event)
-- [ ] 1 LinkedIn post or engagement session
+- [ ] 1 LinkedIn engagement session
+
+**Phase 2 (Mar):**
+- [ ] 1 system design problem/day (6 days/week = 18 total)
+- [ ] 3-5 NeetCode Hard problems/week (20-25 total in March)
+- [ ] 1 networking touchpoint (message, coffee, event, Elastic talk)
+- [ ] 1 LinkedIn engagement session
+
+**Phase 3 (Late Mar/Apr):**
+- [ ] 2 behavioral stories rehearsed out loud/week
+- [ ] 2-3 mock interviews/week
+- [ ] 3-5 NeetCode Hard via mocks (10-15 total in April)
+- [ ] 1 networking touchpoint
