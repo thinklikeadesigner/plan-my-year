@@ -59,6 +59,14 @@ Always include:
 ## OUTPUT FORMAT
 Use tables for breakdowns. Use checkboxes for actionable items. Keep files scannable.
 
+## VERSION CONTROL
+After making any changes to project files (goals, plans, tracker, etc.):
+1. `git add .`
+2. `git commit -m "update"`
+3. `git push`
+
+This ensures all progress is backed up and synced.
+
 ---
 
 ## COMMANDS
