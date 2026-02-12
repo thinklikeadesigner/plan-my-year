@@ -10,6 +10,8 @@ Your network IS your application pipeline. Every person here is a potential refe
 
 | Name | Company | Role | Source | Status | Last Touch | Next Action | Notes |
 |------|---------|------|--------|--------|------------|-------------|-------|
+| Olivia Petrie | Elastic | Program Manager, DevRel | Elastic Austin meetup (Feb 3) | Active | Feb 9 email | Meeting with Sophia Feb 12 11:30am | Invited to present at Elastic Austin meetup on search architecture. Workshop talk with Sophia. |
+| Sophia Solomon | Elastic | Developer Advocate, Austin | Intro from Olivia (Feb 5) | Warm | Feb 9 email | Meeting Feb 12 11:30am | Workshop talk angle for Elastic Austin meetup presentation. |
 | Isha | Amazon | SWE | Women's SWE meetup (Feb 6) | Warm | Feb 7 run club invite | Coffee late Feb, referral ask Week 8-9 | Gave value first with run club invite. Build relationship before ask. |
 | Daniel | EPFL | AI/ML Engineer | Hackathon invite | Met Feb 7 | Feb 9 | Stay visible at run club | Registered for OpenClaw AI hackathon together  |
 | Ryan Will | Meta | Data Scientist | AI camp meetup (Feb 4) | Met | Feb 4 | LinkedIn, stay in touch | Met at AI camp: Claude SDK + A2A protocol talks |
@@ -31,6 +33,7 @@ These are referral contacts you need to identify for Phase 4 (Application Blitz,
 | TikTok | maybe james black | founders run club | went to barton springs on saturday feb 7 | Tier 3 - Strategic |
 | Cloudflare | Ex's workplace | Personal | Possible | Know culture from dating someone there. Genuine fit. May be awkward to reach out. |
 | Datadog | TBD | Need to find | Not started | Tier 3 - Strategic. Monitoring/observability = relevant to your work. |
+| Elastic | Olivia Petrie, Sophia Solomon | Elastic Austin meetup | Active | Tier 3 - Strategic. Presenting at meetup Feb/Mar. Strong relationship via talk collaboration. |
 
 ---
 
