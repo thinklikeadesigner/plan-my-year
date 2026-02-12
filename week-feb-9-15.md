@@ -21,7 +21,8 @@
 - [ ] Follow up with all OpenClaw contacts within 48 hrs (by Mon Feb 16)
 
 ### LinkedIn
-- [ ] Post AI Refactor carousel
+- [ ] Contact Isha (Amazon) by Sun Feb 15 (moved from carousel - higher priority)
+- [ ] Optional: Simple text post about Elastic talk opportunity
 
 ### Fitness
 - [ ] 4 sessions (Tue Walk/Run, Wed Walk/Run, Thu Boulder/Lift, Fri Walk/Run)
@@ -79,7 +80,7 @@
 - [ ] 8:00-4:00pm: Work
 - [ ] 4:00pm: Leave (1h45m drive home)
 - [ ] 6:00-8:00: **Structy DP → Stack** (finish DP, start Stack ~2-4 problems) — CORE
-- [ ] Post AI Refactor carousel on LinkedIn (30 min during lunch or after study)
+- [ ] Contact Isha (Amazon): casual message about coffee/run this month (10 min)
 - [ ] 11:00pm: Bed
 
 **Day target: finish DP section (2-4 remaining) + start Stack. DP: 22/22 done.**
