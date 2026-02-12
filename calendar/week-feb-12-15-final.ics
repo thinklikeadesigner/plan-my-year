@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Rebecca Burch//Weekly Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:elastic-followup-20260212@rebeccaburch
+DTSTAMP:20260212T203000Z
+DTSTART:20260212T203000Z
+DTEND:20260212T210000Z
+SUMMARY:📧 Send Elastic Follow-up Email
+DESCRIPTION:Send follow-up email to Sophia Solomon and Olivia Petrie\n\nInclude:\n- Thank you for call\n- Reference biochem → tech background\n- Talk title and angle\n- Commit to outline by Friday\n\nTask: #1\n\nDEADLINE: 3:00pm CST
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:study-core-thu-20260212@rebeccaburch
+DTSTAMP:20260212T220000Z
+DTSTART:20260212T220000Z
+DTEND:20260213T000000Z
+SUMMARY:📚 Study (Core) - Structy Stack
+DESCRIPTION:Finish remaining Stack problems (~3-5 problems)\nGoal: Complete Stack section 7/7
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:study-flex-thu-20260212@rebeccaburch
+DTSTAMP:20260213T000000Z
+DTSTART:20260213T000000Z
+DTEND:20260213T020000Z
+SUMMARY:📚 Study (Flex) - DDIA Ch 5
+DESCRIPTION:DDIA Chapter 5: Replication\n1.5 hrs reading + notes
+LOCATION:Home
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:walk-run-fri-20260213@rebeccaburch
+DTSTAMP:20260213T123000Z
+DTSTART:20260213T123000Z
+DTEND:20260213T131500Z
+SUMMARY:🏃 Walk/Run
+DESCRIPTION:Morning cardio session
+LOCATION:Neighborhood
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:study-core-fri-20260213@rebeccaburch
+DTSTAMP:20260213T130000Z
+DTSTART:20260213T130000Z
+DTEND:20260213T170000Z
+SUMMARY:📚 Study (Core) - Structy
+DESCRIPTION:Structy problems (~6-8 problems)\nMorning deep work session
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:race-packet-pickup-20260213@rebeccaburch
+DTSTAMP:20260213T170000Z
+DTSTART:20260213T170000Z
+DTEND:20260213T180000Z
+SUMMARY:🏃 Pick Up Austin Marathon Race Packet
+DESCRIPTION:Austin Marathon 5K race packet pickup\n\nPickup window: 11am-7pm\nMust do Friday (hackathon all day Saturday)\n\nBring ID and confirmation email\n\nTask: #3
+LOCATION:Austin Marathon Expo
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:study-core-fri2-20260213@rebeccaburch
+DTSTAMP:20260213T180000Z
+DTSTART:20260213T180000Z
+DTEND:20260213T200000Z
+SUMMARY:📚 Study (Core) - Structy
+DESCRIPTION:Structy problems (~3-4 problems)\nAfternoon session AFTER race packet pickup
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:study-flex-fri-20260213@rebeccaburch
+DTSTAMP:20260213T200000Z
+DTSTART:20260213T200000Z
+DTEND:20260213T213000Z
+SUMMARY:📚 Study (Flex) - DDIA Ch 5
+DESCRIPTION:DDIA Chapter 5: Replication\nContinue reading
+LOCATION:Home
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:openclaw-hackathon-20260213@rebeccaburch
+DTSTAMP:20260213T220000Z
+DTSTART:20260213T220000Z
+DTEND:20260215T000000Z
+SUMMARY:💻 OpenClaw AI Hackathon
+DESCRIPTION:OpenClaw AI Hackathon begins\n\nGoals:\n- Build something with tools you know (Python\, APIs)\n- Meet engineers\, exchange contacts\n- Be memorable\n\nRule: Build\, ship\, leave\, move on
+LOCATION:Hackathon Venue
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:openclaw-hackathon-sat-20260214@rebeccaburch
+DTSTAMP:20260214T130000Z
+DTSTART:20260214T130000Z
+DTEND:20260214T230000Z
+SUMMARY:💻 OpenClaw AI Hackathon (Day 2)
+DESCRIPTION:Hackathon continues until 6pm\n\nShip it and move on\n\nNote: Austin Marathon 5K tomorrow at 8:40am - get good sleep tonight
+LOCATION:Hackathon Venue
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:elastic-outline-20260214@rebeccaburch
+DTSTAMP:20260214T140000Z
+DTSTART:20260214T140000Z
+DTEND:20260214T170000Z
+SUMMARY:✍️ Draft Elastic Talk Outline
+DESCRIPTION:Create detailed outline for Elastic Austin meetup talk\n\nInclude:\n- Talk structure (5 sections)\n- Key technical content\n- Demo plan\n- Audience takeaways\n\nSend to Sophia + Olivia for feedback\n\nTask: #2\n\nDEADLINE: Friday Feb 14\n\nNote: Can work on this during hackathon downtime if needed
+LOCATION:Hackathon Venue
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:austin-marathon-5k-20260215@rebeccaburch
+DTSTAMP:20260215T143000Z
+DTSTART:20260215T143000Z
+DTEND:20260215T153000Z
+SUMMARY:🏃 Austin Marathon 5K Race
+DESCRIPTION:Austin Marathon 5K\n\nStart time: 8:40am CST\nEstimated finish: ~9:10-9:15am (30-35 min race)\n\nPre-race:\n- Wake 7:00am\n- Light breakfast (banana\, toast)\n- Arrive 8:00am for warmup\n\nPost-race:\n- Stretch\, hydrate\n- Recovery meal\n- Rest before study session\n\nNote: This is your fitness session for the week - skip Sunday study if energy is low
+LOCATION:Austin Marathon Course
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:study-core-sun-20260215@rebeccaburch
+DTSTAMP:20260215T180000Z
+DTSTART:20260215T180000Z
+DTEND:20260215T200000Z
+SUMMARY:📚 Study (Core) - Structy Graph II
+DESCRIPTION:Start Graph II section\nAim for 3 problems\n\nNote: OPTIONAL if energy is low after 5K race + hackathon weekend\n\nListen to your body - recovery matters
+LOCATION:Home
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:study-flex-sun-20260215@rebeccaburch
+DTSTAMP:20260215T200000Z
+DTSTART:20260215T200000Z
+DTEND:20260215T210000Z
+SUMMARY:📚 Study (Flex) - DDIA Ch 5
+DESCRIPTION:Finish DDIA Chapter 5: Replication\nWrite 1-paragraph summary\n\nOPTIONAL if tired from race + hackathon
+LOCATION:Home
+STATUS:TENTATIVE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:linkedin-sun-20260215@rebeccaburch
+DTSTAMP:20260215T210000Z
+DTSTART:20260215T210000Z
+DTEND:20260215T220000Z
+SUMMARY:💼 LinkedIn + OpenClaw Follow-up
+DESCRIPTION:LinkedIn engagement + follow up with OpenClaw hackathon contacts\n\n48-hour rule: Follow up within 48 hrs of meeting\n\nHIGH PRIORITY - don't skip this one
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:weekly-review-20260215@rebeccaburch
+DTSTAMP:20260215T220000Z
+DTSTART:20260215T220000Z
+DTEND:20260215T230000Z
+SUMMARY:📋 Weekly Review
+DESCRIPTION:Sunday weekly review ritual\n\n- Update tracker.csv\n- Review progress vs targets\n- Run 'next week' command\n- Plan adjustments for Week 3\n\nNote: This was a BIG week - hackathon\, race\, Elastic call. Celebrate wins even if study targets are lower than planned.
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+END:VCALENDAR

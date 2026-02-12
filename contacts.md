@@ -10,8 +10,8 @@ Your network IS your application pipeline. Every person here is a potential refe
 
 | Name | Company | Role | Source | Status | Last Touch | Next Action | Notes |
 |------|---------|------|--------|--------|------------|-------------|-------|
-| Olivia Petrie | Elastic | Program Manager, DevRel | Elastic Austin meetup (Feb 3) | Active | Feb 9 email | Meeting with Sophia Feb 12 11:30am | Invited to present at Elastic Austin meetup on search architecture. Workshop talk with Sophia. |
-| Sophia Solomon | Elastic | Developer Advocate, Austin | Intro from Olivia (Feb 5) | Warm | Feb 9 email | Meeting Feb 12 11:30am | Workshop talk angle for Elastic Austin meetup presentation. |
+| Olivia Petrie | Elastic | Program Manager, DevRel | Elastic Austin meetup (Feb 3) | Active | Feb 12 call | Send talk outline by end of week | Invited to present at Elastic Austin meetup on search architecture. Workshop talk with Sophia went great. |
+| Sophia Solomon | Elastic | Developer Advocate, Austin | Intro from Olivia (Feb 5) | Active | Feb 12 call | Send talk outline, follow up within 24hrs | Workshop call Feb 12 - connected over shared biochem → tech background. Talk about AI, life, career pivots. Great rapport. |
 | Holt | Google | Developer Advocate | AI meetup (Feb) | Warm | Commented on course post | Second interaction by mid-March | Bridge node into Google. Gave A2A talk. Potential intro to platform engineer. Referral ask in April through intro request, not direct ask. |
 | Isha | Amazon | SWE | Women's SWE meetup (Feb 6) | Warm | Feb 7 run club invite | Coffee late Feb, referral ask Week 8-9 | Gave value first with run club invite. Build relationship before ask. |
 | Daniel | EPFL | AI/ML Engineer | Hackathon invite | Met Feb 7 | Feb 9 | Stay visible at run club | Registered for OpenClaw AI hackathon together  |
