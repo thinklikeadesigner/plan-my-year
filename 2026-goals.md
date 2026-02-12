@@ -123,10 +123,10 @@ Networking is not a separate goal — it IS the job search. Every event, coffee 
 ### End of February
 - [ ] Structy: 114/114 complete (or Mixed Recall overflow into Mar 1-7)
 - [ ] 30-day challenge complete or nearly complete
-- [ ] DDIA chapters 5-7 read and notes taken
+- [ ] DDIA: Ch 1-4 audiobook, Ch 5-7 read with notes
 - [ ] 2-3 hackathons attended, 4+ new contacts made
-- [ ] First LinkedIn carousel posted
-- [ ] Amazon engineer relationship progressing
+- [ ] LinkedIn carousel (moved to March post-Elastic talk)
+- [ ] Amazon engineer (Isha) relationship progressing
 
 ### End of March
 - [ ] 18 system design problems completed
