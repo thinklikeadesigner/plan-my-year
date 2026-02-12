@@ -1,6 +1,6 @@
 # Context Dump for ChatGPT — Goal Planning Engine
 
-**Last updated:** February 11, 2026
+**Last updated:** February 12, 2026
 **Current status:** Phase 1: Week 2 (Feb 9-15)
 
 This document contains everything ChatGPT needs to understand and assist with the goal planning system.
@@ -11,7 +11,8 @@ This document contains everything ChatGPT needs to understand and assist with th
 
 Land a platform engineering role at a top-tier tech company by June 2026. 100% referral-based applications. Network IS the application pipeline.
 
-**Current role:** Employed 9-5 as a platform engineer
+**Current role:** Employed 9-5 at Texas A&M Transportation Institute (research + platform engineering)
+**Background:** Career changer (B.S. Biomedical Science, Texas A&M, 2017, GPA 3.2) → self-taught software engineer
 **Constraints:** Tue/Wed office (2hr commute via 2-house system), Mon/Thu/Fri WFH
 **Study budget:** 10-15 hrs/week core, up to 23 hrs with flex
 
@@ -32,18 +33,19 @@ This is a **cascading time-horizon planning system** that breaks down yearly goa
 
 ---
 
-## CURRENT STATE (as of Feb 11, 2026)
+## CURRENT STATE (as of Feb 12, 2026)
 
 ### Progress Summary
 
 | Metric | Status |
 |--------|--------|
-| **Structy DSA** | 28/114 problems done (103 remaining) |
+| **Structy DSA** | 28/114 problems done (25% complete, 86 remaining) |
 | **Current sections** | DP: 16/22, Stack: 6/7, Graph II: 0/16 |
 | **DDIA** | Ch 1-2 done (audiobook), Ch 5 in progress |
 | **Weight** | Start: 156.5 → Current: 156.1 → Target: 146.5 lbs |
-| **Networking** | 5 active contacts, Amazon referral in progress |
-| **Phase** | Phase 1: Finish the Weapon (Feb 8-28) |
+| **Networking** | 5 active contacts, Amazon referral in progress, Elastic talk being scheduled |
+| **Phase** | Phase 1: Finish the Weapon (Feb 8-28), Week 2 of 3 |
+| **Days into plan** | Day 5 of 120-day journey |
 
 ### Active Week: Feb 9-15
 
@@ -98,11 +100,14 @@ This is a **cascading time-horizon planning system** that breaks down yearly goa
 ### Goal 3: Network as Application Pipeline
 
 **Active contacts:**
-- **Isha (Amazon):** Met at Women's SWE meetup, gave value first (run club invite), coffee late Feb, referral ask Week 8-9
-- **Olivia Petrie (Elastic):** Program Manager DevRel, invited to present at Elastic Austin meetup
-- **Sophia Solomon (Elastic):** Developer Advocate, workshop talk angle, meeting Feb 12 11:30am
-- **Daniel (EPFL):** AI/ML engineer, met at Founders Run Club, registered for OpenClaw hackathon together
-- **Ryan Will (Meta):** Data scientist (not eng), met at AI camp meetup
+- **Olivia Petrie (Elastic):** Program Manager DevRel, invited to present at Elastic Austin meetup, send talk outline by end of week
+- **Sophia Solomon (Elastic):** Developer Advocate, workshop call Feb 12 went great (connected over shared biochem → tech background), send talk outline within 24hrs
+- **Holt (Google):** Developer Advocate, bridge node into Google, gave A2A talk at AI meetup, need second interaction by mid-March, potential intro to platform engineer
+- **Isha (Amazon):** SWE at Amazon, met at Women's SWE meetup Feb 6, gave value first (run club invite Feb 7), coffee late Feb, referral ask Week 8-9
+- **Daniel (EPFL/Mitre):** AI/ML engineer, met at Founders Run Club Feb 7, registered for OpenClaw hackathon together
+- **Ryan Will (Meta):** Data scientist (not eng - weak referral), met at AI camp meetup Feb 4
+- **Daniel Lam (Microsoft):** TTI student worker, got return offer at Microsoft, LinkedIn connection (congratulated on new position)
+- **James Black (TikTok maybe):** Met at Founders Run Club, hung out at Barton Springs Feb 7, owns marketing agency, said he used to work at TikTok
 
 **Weekly non-negotiables:**
 - 1 networking touchpoint (message, coffee, event)
@@ -344,16 +349,63 @@ This system is designed around **human-in-the-loop checkpoints**. The agent shou
 
 ---
 
+## THE REALITY: CAREER CHANGER DOING A 2.2x COMP JUMP IN 120 DAYS
+
+**What you're actually doing:**
+- Current: $90K base ($112K TC) at Texas A&M Transportation Institute
+- Target: $250K+ TC at Big Tech platform engineering (Google L4, Meta E4, Amazon SDE II, etc.)
+- **That's a 2.2x total comp jump in 4 months**
+- **Non-CS degree (Biomedical Science) + 8 years post-grad + career changer**
+
+**Why this is NOT crazy:**
+1. **You've already built real platform engineering work** (incremental indexing, API integration, hash-based dedup, DAG-modeled constraints)
+2. **The referral strategy bypasses resume filters** (cold apps with your background = ~0%, strong referrals = 20-40%)
+3. **You're willing to do the reps** (114 Structy problems in 3 weeks, 18 system designs, 8-10 mocks)
+4. **The comp jump is mostly equity** (Base: 90K → 140-160K is reasonable for L4/SDE II; equity is the real difference: 0 → $80-150K/year)
+5. **Market timing is on your side** (Austin tech scene, platform/infra demand, 2026 market stability)
+
+**Adjusted timeline reality:**
+- **Optimistic (30-40% probability):** April apps → May/June offers at Tier 2-3 ($200-240K)
+- **Realistic (60% probability):** April apps → some interviews → 1 offer at Tier 3 ($180-220K), OR no offers → Q3/Q4 re-run → land by EOY ($200-240K)
+- **Backup (90% probability):** Land mid-tier company ($140-170K) → 18 months → FAANG ($250K+)
+- **Long-shot (10-15% probability):** Multiple offers → competing leverage → Google/Meta L4 at $270K+
+
+**What changes because of non-CS background:**
+1. **Referral quality matters even more** — Need "I worked with them, they can code" not "I met them once"
+2. **Project stories need to hit harder** — Interviewers need to forget your degree 5 minutes into technical conversation
+3. **Career transition is a secret weapon** — "Tell me about a time you learned something difficult" → entire career pivot story
+4. **Target career-changer friendly companies harder** — Amazon (leadership principles > pedigree), Stripe, Datadog, Elastic
+5. **Mock interviews are EVEN MORE critical** — Can't afford to freeze; need to be unshakeable in real interviews
+
+**The "Why software engineering?" answer (60 seconds):**
+"I started in biomedical science, but during undergrad I got curious about data analysis and started teaching myself Python. I realized I loved building systems and solving technical problems more than lab work. After graduation, I got a role at the Transportation Institute where I could do both — research and software engineering. Over the past 8 years, I've built production systems handling indexing, API integrations, and distributed data pipelines. I realized platform engineering is where I want to build my career, and I'm ready to do it at scale at a company like [Google/Meta/Amazon]."
+
+**Mental model adjustment:**
+You're not "90K → 250K in 120 days."
+You're "I've been teaching myself software engineering for 8 years, built production platform systems, finally gotten good enough to interview at Big Tech, compressing 2 years of interview prep into 4 months, using referrals to bypass resume filters, executing so well in interviews that they forget I don't have a CS degree, and getting paid what I'm actually worth for the first time in my career."
+
+That's not crazy. **That's overdue.**
+
+**Lean HARD into:**
+1. **Isha (Amazon) relationship** — coffee late Feb, show your work, earn a strong referral (Amazon hires career changers)
+2. **Elastic talk** — crush the presentation, turn Olivia/Sophia into advocates (you connected over shared biochem → tech background)
+3. **Holt (Google) bridge** — get intro to platform engineer, show you can code
+4. **Behavioral story about career transition** — this is your differentiation vs Stanford CS grads
+
+You're not competing with Stanford CS grads. You're competing with other career changers. And you're WAY ahead of most of them.
+
 ## BACKUP SCENARIOS
 
 **If FAANG doesn't work by June:**
-- **Option A:** Tier 3 companies as primary (Cloudflare, Datadog, Figma, Stripe, Uber)
+- **Option A:** Tier 3 companies as primary (Cloudflare, Datadog, Elastic, Stripe, Uber) — $180-220K range
 - **Option B:** Austin startup play (Series B+, $140-170K+, 10x ownership)
-- **Option C:** Re-prep Q3/Q4 with real interview experience
+- **Option C:** Re-prep Q3/Q4 with real interview experience, land by EOY
 
 **If offer is lukewarm:** Take it if comp is right. Leave in 18-24 months. Logo and salary are the point.
 
 **If entrepreneurship pull gets strong:** Deal with yourself — build after 18 months at big tech. Salary funds runway, logo gives credibility, network gives co-founders.
+
+**You need ONE yes. Not five. Every rejection gets you closer.**
 
 ---
 
