@@ -485,3 +485,37 @@ Expected to apply to 10-15 companies simultaneously
 Target: 3+ referral-attached applications
 Goal: Generate competing offers for negotiation leverage
 ```
+
+---
+
+### `recall <query>`
+Search memory for relevant context using hybrid semantic + full-text search.
+
+**Process:**
+1. Run `python scripts/typesense_search.py "<query>"`
+2. Present results to user
+3. Use results as context for follow-up questions
+
+**Optional flags:**
+- `--type <type>` — Filter by: tracker, weekly_plan, monthly_plan, quarterly_plan, story, contact
+- `--limit <n>` — Max results (default: 5)
+
+**Examples:**
+```
+> recall "graph problems"
+> recall "Amazon contact" --type contact
+> recall "distributed systems" --limit 10
+```
+
+**Setup (one-time):**
+```bash
+docker compose up -d
+pip install -r requirements.txt
+python scripts/typesense_setup.py
+python scripts/typesense_index.py
+```
+
+**Re-index after updates:**
+```bash
+python scripts/typesense_index.py
+```
