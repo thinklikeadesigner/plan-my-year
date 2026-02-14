@@ -12,6 +12,7 @@
 
 ## To-Do
 - [ ] Look into **Neural Composer: Local Graph RAG made easy (LightRAG integration)** — Feb 15
+- [ ] Connect with Colin McNamara on LinkedIn with a note — Feb 15 (linkedin.com/in/colinmcnamara)
 
 ## System Design Progress (Grokking Modern System Design - Educative)
 - **Completed (8/34):** System Design Interviews, SD Primer, Non-Functional Reqs, Back-of-Envelope Calcs, Building Blocks, DNS, Load Balancer, Databases
