@@ -18,7 +18,7 @@ Your network IS your application pipeline. Every person here is a potential refe
 | Ryan Will | Meta | Data Scientist | AI camp meetup (Feb 4) | Met | Feb 4 | LinkedIn, stay in touch | Met at AI camp: Claude SDK + A2A protocol talks |
 | Sophie | Recruiting | Recruiter | Previous contact | Ghosted | Resume submission | One polite follow-up, then move on | Went dark after resume. Not worth chasing. |
 | Ion | Gamersplug | Founder | Moltathon Austin hackathon (Feb 14) | Met | Feb 14 | Follow up within 48hrs | Met at Moltathon hackathon |
-| Josh | Skippy | Founder | Moltathon Austin hackathon (Feb 14) | Met | Feb 14 | Follow up within 48hrs | Local Mac-native AI assistant startup |
+| Josh | Skippy | Founder | Moltathon Austin hackathon (Feb 14) | Met | Feb 14 | Try Skippy beta, send feedback | Local Mac-native AI assistant. Got beta .dmg airdropped. Not on LinkedIn — find other contact method. |
 | Jack Moffatt | Linkt AI | Co-founder & CTO | Moltathon Austin hackathon (Feb 14) | Met | Feb 14 | Follow up within 48hrs | |
 | [Angel investor guy] | Natural Stacks | Angel Investor / Founder | Moltathon Austin hackathon (Feb 14) | Met | Feb 14 | Follow up if relevant | Writes sci-fi, owns Natural Stacks supplement company |
 
