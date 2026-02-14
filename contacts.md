@@ -21,6 +21,7 @@ Your network IS your application pipeline. Every person here is a potential refe
 | Josh | Skippy | Founder | Moltathon Austin hackathon (Feb 14) | Met | Feb 14 | Get contact info at Day 2, try Skippy beta | Local Mac-native AI assistant. Got beta .dmg airdropped. Not on LinkedIn. Hackathon continues Feb 15. |
 | Jack Moffatt | Linkt AI | Co-founder & CTO | Moltathon Austin hackathon (Feb 14) | Met | Feb 14 | Follow up within 48hrs | |
 | [Angel investor guy] | Natural Stacks | Angel Investor / Founder | Moltathon Austin hackathon (Feb 14) | Met | Feb 14 | Follow up if relevant | Writes sci-fi, owns Natural Stacks supplement company |
+| Colin McNamara | — | — | Moltathon Austin hackathon (Feb 14) | Met | Feb 14 | Follow up within 48hrs | Super into Obsidian & persistent memory, especially domain-specific evaluators. Blog: colinmcnamara.com · LinkedIn: linkedin.com/in/colinmcnamara · X: x.com/colinmcnamara |
 
 ---
 
